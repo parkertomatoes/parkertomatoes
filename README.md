@@ -1,6 +1,9 @@
 # Joe Antoon
 Full-Stack software engineer with 15 years of experience in multiple industries. I'm proficient in Javascript, TypeScript, React, C#, C++ and ASP.NET. Currently working with Garrett Motion as a Senior Software Engineer and Product Owner.
 
+### Links
+ * [LinkedIn](https://www.linkedin.com/in/joeantoon)
+ * [StackOverflow](https://stackoverflow.com/users/1863938/parktomatomi) 
  ### Personal Projects
 Below is a selection of some of my personal projects
 
